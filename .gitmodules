@@ -1,0 +1,15 @@
+[submodule "esp"]
+	path = esp
+	url = https://github.com/sld-columbia/esp.git
+[submodule "ariane"]
+	path = ariane
+	url = https://github.com/sld-columbia/ariane.git
+[submodule "nvdla-hw"]
+	path = nvdla-hw
+	url = https://github.com/sld-columbia/nvdla-hw.git
+[submodule "EdgeBERT"]
+	path = EdgeBERT
+	url = https://github.com/harvard-acc/EdgeBERT.git
+[submodule "ESP_Systolic_Array_Accelerator"]
+	path = ESP_Systolic_Array_Accelerator
+	url = https://github.com/harvard-acc/ESP_Systolic_Array_Accelerator.git
