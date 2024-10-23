@@ -13,3 +13,6 @@
 [submodule "ESP_Systolic_Array_Accelerator"]
 	path = ESP_Systolic_Array_Accelerator
 	url = https://github.com/harvard-acc/ESP_Systolic_Array_Accelerator.git
+[submodule "epochs_audio_accelerators"]
+	path = epochs_audio_accelerators
+	url = https://github.com/sld-columbia/epochs_audio_accelerators.git
